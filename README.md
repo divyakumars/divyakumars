@@ -46,6 +46,10 @@ I’m an enthusiastic **AI & Data Science student** with a passion for solving r
 ---
 
 
+### GitHub Stats
+
+![Divya's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyakumars&show_icons=true&theme=radical)
+
 ## 🔤 Most Used Languages  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyakumars&layout=compact&theme=radical)
